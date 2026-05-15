@@ -189,9 +189,13 @@ edutrack/
 3. Use quick navigation buttons to jump to other pages
 4. All statistics update in real-time as you make changes
 
+## Program Information
+
+This project is part of the IgaNow Tech Intern Program, an intensive software development training initiative provided to Level 3 (L3) students at GS.MK Apace for Software Development. The program focuses on building real-world applications using modern web technologies.
+
 ## Curriculum and Learning Outcomes
 
-This project is part of Rwanda TVET Board Level 3 training covering:
+This training covers:
 
 ### Week 1: HTML, CSS, and Git Fundamentals
 - HTML5 semantic structure
@@ -298,18 +302,21 @@ For SPA routing to work correctly on Netlify, ensure the `_redirects` file is in
 
 ## License
 
-This project is part of the Rwanda TVET Board Level 3 Software Development training program. All rights reserved.
+This project is part of the IgaNow Tech Intern Program training initiative provided to Level 3 students at GS.MK Apace for Software Development. All rights reserved.
 
-## Author
+## Author and Institution
 
-Developed as part of the EduTrack Internship Training Program (2026)
+Developed by: Bahati Steven
+Institution: GS.MK Apace - Software Development Program
+Program: IgaNow Tech Intern Program
+Year: 2026
 
-For questions or support, please contact the training instructor or refer to the training documentation.
+For questions or support regarding this project, please contact the training instructor or refer to the training documentation at GS.MK Apace.
 
 ## Git History
 
 The complete development history can be viewed on GitHub:
-https://github.com/Bahatisteven/edu-track-prod
+https://github.com/Bahatisteven/eduTrack.git
 
 Key commits include:
 - Initial project setup and HTML structure
